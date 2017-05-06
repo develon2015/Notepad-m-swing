@@ -34,7 +34,7 @@ import javax.swing.tree.DefaultTreeCellEditor.EditorContainer;
  * 多文件编辑记事本
  * 
  * @author develon <br/>
- *         <b> 时间 2017-5关关关
+ *         <b> 时间 2017-5
  */
 public class Frame extends JFrame implements ActionListener, MouseListener {
 	private static final long serialVersionUID = 7859502382174100871L;
